@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TaskFlow.Api/TaskFlow.Api.csproj" />
+    <Project Path="src/TaskFlow.Shared/TaskFlow.Shared.csproj" />
+  </Folder>
+  <Folder Name="/src/TaskFlow.Modules/" />
+  <Folder Name="/src/TaskFlow.Modules/Identity/">
+    <Project Path="src/TaskFlow.Modules/Identity/TaskFlow.Modules.Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/TaskFlow.Modules/Notifications/">
+    <Project Path="src/TaskFlow.Modules/Notifications/TaskFlow.Modules.Notifications.csproj" />
+  </Folder>
+  <Folder Name="/src/TaskFlow.Modules/Organizations/">
+    <Project Path="src/TaskFlow.Modules/Organizations/TaskFlow.Modules.Organizations.csproj" />
+  </Folder>
+  <Folder Name="/src/TaskFlow.Modules/Projects/">
+    <Project Path="src/TaskFlow.Modules/Projects/TaskFlow.Modules.Projects.csproj" />
+  </Folder>
+  <Folder Name="/src/TaskFlow.Modules/Tasks/">
+    <Project Path="src/TaskFlow.Modules/Tasks/TaskFlow.Modules.Tasks.csproj" />
+  </Folder>
+</Solution>
